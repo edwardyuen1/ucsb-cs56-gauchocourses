@@ -4,9 +4,9 @@ course planner
 Edward 
 Wesley
 Nathan
-Chengsu
+Changsheng
 Iris
-Nelly
+Jiawei
 
 Agreement 1: All of the work will be split before-hand and then divied out to each person that way we all agree on what constitutes "equal"
 
